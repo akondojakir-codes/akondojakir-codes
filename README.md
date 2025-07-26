@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Md. Jakir Hossain Akondo (Shikhon)
-
+# Hi there 👋, I'm Md. Jakir Hossain Akondo 
+Full Stack Devoloper
 🎓 Bengali Graduate from the University of Chittagong  
 💻 Passionate Beginner in Software Development  
 🌍 Dreaming to Work Abroad (Europe, Canada, Australia...)  
