@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Md. Jakir Hossain Akondo (Shikhon)
 
-<!--
-**akondojakir-codes/akondojakir-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bengali Graduate from the University of Chittagong  
+💻 Passionate Beginner in Software Development  
+🌍 Dreaming to Work Abroad (Europe, Canada, Australia...)  
+🚀 Learning ASP.NET Core, React, Angular & .NET MAUI  
 
-Here are some ideas to get you started:
+## 🧠 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗄️ MS SQL Server | EF Core | LINQ
+- 💻 C#, .NET 4.6.1 & .NET Core
+- 🌐 ASP.NET MVC, Web API
+- 🔧 Angular | React | Blazor | MAUI
+- 🎨 HTML5, CSS3, JavaScript
+- 📦 Git, GitHub, Visual Studio
+
+## 🌱 Currently Learning
+
+- English Speaking Fluency
+- React Master-Detail Forms
+- .NET MAUI Apps
+- Freelancing & Career Building
+
+## 📫 How to reach me:
+
+- 📧 akondojakir2017@gmail.com
+- 📱 +88 01571160366
+- 🏠 Mirpur 10, Dhaka, Bangladesh
+- 🗺️ From: Itna, Kishoreganj
+
+---
+
+> “Success comes from consistency and learning step by step.” – Shikhon
+
+Thanks for visiting my profile! 💙
