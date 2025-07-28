@@ -1,35 +1,46 @@
-# Hi there 👋, I'm Md. Jakir Hossain Akondo 
-Full Stack Devoloper
-🎓 Bengali Graduate from the University of Chittagong  
-💻 Passionate Beginner in Software Development  
-🌍 Dreaming to Work Abroad (Europe, Canada, Australia...)  
-🚀 Learning ASP.NET Core, React, Angular & .NET MAUI  
+# Md. Jakir Hossain Akondo
 
-## 🧠 Skills & Technologies
+## Full Stack Developer | Driven Learner | Future-Ready Professional
 
-- 🗄️ MS SQL Server | EF Core | LINQ
-- 💻 C#, .NET 4.6.1 & .NET Core
-- 🌐 ASP.NET MVC, Web API
-- 🔧 Angular | React | Blazor | MAUI
-- 🎨 HTML5, CSS3, JavaScript
-- 📦 Git, GitHub, Visual Studio
+Hello! I'm Jakir — a Bengali graduate with a Master’s degree from the University of Chittagong, now passionately stepping into the world of software development.  
 
-## 🌱 Currently Learning
+Though my academic background is in the arts, my curiosity and dedication have led me to technology — where I find creativity, logic, and limitless potential.
 
-- English Speaking Fluency
-- React Master-Detail Forms
-- .NET MAUI Apps
-- Freelancing & Career Building
-
-## 📫 How to reach me:
-
-- 📧 akondojakir2017@gmail.com
-- 📱 +88 01571160366
-- 🏠 Mirpur 10, Dhaka, Bangladesh
-- 🗺️ From: Itna, Kishoreganj
+I'm building my skills every day, aiming to become a capable full stack developer ready to work in dynamic global environments. I dream of contributing to innovative tech teams in Europe, Canada, or Australia — not only to build a successful career but also to support my family and community.
 
 ---
 
-> “Success comes from consistency and learning step by step.” – Shikhon
+## Skills and Technologies
 
-Thanks for visiting my profile! 💙
+- **Database**: MS SQL Server, Entity Framework Core  
+- **Programming**: C#, .NET Framework 4.6.1, .NET Core  
+- **Backend Development**: ASP.NET MVC, Web API  
+- **Frontend Development**: Angular, React, Blazor, .NET MAUI  
+- **Web Technologies**: HTML5, CSS3, JavaScript  
+- **Tools & Platforms**: Git, GitHub, Visual Studio, Visual Studio Code  
+
+---
+
+## What I’m Focusing on Right Now
+
+- Improving my **English communication and fluency**  
+- Developing **cross-platform apps** with .NET MAUI  
+- Exploring **freelancing opportunities** and **career pathways**  
+- Building real-world **React projects** with master-detail patterns  
+
+---
+
+## Get in Touch
+
+- **Email**: [akondojakir2017@gmail.com](mailto:akondojakir2017@gmail.com)  
+- **Phone**: +88 01571160366  
+- **Current Location**: Mirpur 10, Dhaka, Bangladesh  
+- **Hometown**: Itna, Kishoreganj, Bangladesh  
+
+---
+
+> _“Success doesn’t happen overnight. It’s built through consistency, courage, and learning — one step at a time.”_  
+> — Jakir (Shikhon)
+
+Thank you so much for visiting my profile.  
+If you believe in learning, growth, and purpose — we already have something in common.
