@@ -12,7 +12,7 @@ I'm building my skills every day, aiming to become a capable full stack develope
 
 ## Skills and Technologies
 
-- **Database**: MS SQL Server, Entity Framework Core  
+-- **Database**: MS SQL Server, Entity Framework Core, LINQ, MongoDB 
 - **Programming**: C#, .NET Framework 4.6.1, .NET Core  
 - **Backend Development**: ASP.NET MVC, Web API  
 - **Frontend Development**: Angular, React, Blazor, .NET MAUI  
